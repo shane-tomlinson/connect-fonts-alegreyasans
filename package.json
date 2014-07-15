@@ -1,0 +1,24 @@
+{
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-alegreyasans",
+  "description": "Alegreya Sans Black font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "alegreyasans-black", "alegreyasans-blackitalic", "alegreyasans-bold", "alegreyasans-bolditalic", "alegreyasans-extrabold", "alegreyasans-extrabolditalic", "alegreyasans-italic", "alegreyasans-light", "alegreyasans-lightitalic", "alegreyasans-medium", "alegreyasans-mediumitalic", "alegreyasans-regular", "alegreyasans-thin", "alegreyasans-thinitalic"],
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
