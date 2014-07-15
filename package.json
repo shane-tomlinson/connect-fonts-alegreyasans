@@ -15,10 +15,15 @@
       "url": "http://scripts.sil.org/OFL"
     }
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">= 0.4.7"
   },
-  "main": "index"
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-alegreyasans"
+  },
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-alegreyasans"
 }
 

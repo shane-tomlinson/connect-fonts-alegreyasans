@@ -6,8 +6,8 @@ module.exports = {
   // Package info
   "package": {
     "name": "connect-fonts-alegreyasans",
-    "homepage": false,
-    "repourl": false,
+    "homepage": "https://github.com/shane-tomlinson/connect-fonts-alegreyasans",
+    "repourl": "https://github.com/shane-tomlinson/connect-fonts-alegreyasans",
     "bugsurl": false
   },
 
